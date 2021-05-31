@@ -3,3 +3,6 @@ unix
 linux
 ansible
 cheff
+puppet
+docker
+aws
